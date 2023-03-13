@@ -5,7 +5,9 @@ Each project is accompanied by a detailed description, including the problem sta
 
 ## Table of Contents
 Project 1: Performance Improvement Program for a delivery firm
+
 Project 2: Marketing and Sales Analysis for Auto Client
+
 Project 3: Credit Card Classification
 
 ## Technologies Used
