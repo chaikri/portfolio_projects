@@ -4,9 +4,9 @@ Welcome to my portfolio projects repository! Here, you will find a collection of
 Each project is accompanied by a detailed description, including the problem statement, approach, and results.
 
 ## Table of Contents
-Project 1: Name of Project
-Project 2: Name of Project
-Project 3: Name of Project
+Project 1: Performance Improvement Program for a delivery firm
+Project 2: Marketing and Sales Analysis for Auto Client
+Project 3: Credit Card Classification
 
 ## Technologies Used
 Python, MS Excel, SQL Server, Tableau, R, Power BI
