@@ -12,7 +12,7 @@ Project 3: Name of Project
 Python, MS Excel, SQL Server, Tableau, R, Power BI
 
 ## About Me
-An experienced business analyst who leverages my data analysis expertise to deliver strategic insights to optimize business performance and drive decision-making
+I am an experienced business analyst who leverages my data analysis expertise to deliver strategic insights to optimize business performance and drive decision-making
 
 ## Contact
 If you have any questions or feedback about my portfolio projects, please feel free to contact me. You can reach me at:
